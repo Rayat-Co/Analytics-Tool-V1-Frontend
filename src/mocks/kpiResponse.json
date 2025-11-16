@@ -1,0 +1,34 @@
+{
+  "month": "October 2025",
+  "total_units_sold": 128,
+  "avg_units_per_salesperson": 10.6,
+  "avg_gross_per_unit": 1843.22,
+  "avg_fi_per_unit": 635.88,
+  "avg_commission_per_unit": 280.44,
+  "fi_penetration_rate": 0.73,
+  "new_used_ratio": 0.47,
+  "lease_finance_cash_ratio": {
+    "lease": 0.41,
+    "finance": 0.39,
+    "cash": 0.20
+  },
+  "front_back_ratio": 0.68,
+  "commission_as_pct_of_gross": 0.15,
+  "fi_as_pct_of_total_gross": 0.26,
+  "top_salespeople": [
+    { "name": "John Smith", "units": 14, "avg_gross": 2400 },
+    { "name": "Mary Johnson", "units": 12, "avg_gross": 2180 },
+    { "name": "HOUSE", "units": 10, "avg_gross": 0 }
+  ],
+  "units_by_vehicle_type": {
+    "SUV": 52,
+    "Sedan": 36,
+    "Truck": 40
+  },
+  "top_models": [
+    { "model": "F-150", "units": 18 },
+    { "model": "Escape", "units": 15 },
+    { "model": "Edge", "units": 12 }
+  ],
+  "insights": "October saw a 12% increase in F&I penetration compared to September. SUV sales dominated with 41% share."
+}
