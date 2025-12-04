@@ -42,7 +42,7 @@ function App() {
     }
 
     const token = localStorage.getItem('auth_token') || '';
-    const apiUrl = import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000';
+    const apiUrl = 'http://localhost:8000';
 
     return (
         <div className="App">
