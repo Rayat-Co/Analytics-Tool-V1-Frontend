@@ -26,7 +26,9 @@ export interface KpiResponse {
 export interface Salesperson {
     name: string;
     units: number;
-    avg_gross: number;
+    avg_deal_gross: number;
+    avg_total_gross: number;
+    avg_commission: number;
 }
 
 export interface Model {
